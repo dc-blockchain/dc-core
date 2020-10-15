@@ -1,0 +1,3 @@
+[submodule "tests_integration"]
+	path = tests_integration
+	url = https://github.com/thedc/integration_tests
